@@ -20,8 +20,10 @@ handlers:
   script: main.app
  
 libraries:
-- name: jinja2
-  version: latest
-- name: webapp2
-  version: latest
+-  name: webapp2
+   version: latest
+-  name: jinja2
+   version: latest
+-  name: flask
+   version: latest
   
